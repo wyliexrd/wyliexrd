@@ -9,17 +9,17 @@
 <img src="https://github.com/wyliexrd/wyliexrd/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate Web developer from 🇹🇷Türkiye🇦🇿</h3>
 
 - 🔭 I’m currently working on **React**
 
 - 💬 Ask me about **Blockchain**
 
-- 📫 How to reach me **wyliexbusiness@gmail.com**
+- ✉️ How to reach me **wyliexbusiness@gmail.com**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/wyliexrd?theme=unicorn)](https://leetcode.com/wyliexrd/)
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wyliex) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wyliex0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@wyliexrd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wyliexrd) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wyliex0) [![Threads](https://img.shields.io/badge/Threads-%23E4405F.svg?logo=Threads&logoColor=white)](https://www.threads.net/@wyliex0) [![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=blue)](https://t.me/wyliexrd)[![PayPal](https://img.shields.io/badge/Paypal-%23E4405F.svg?logo=PayPal&logoColor=blue)](https://www.paypal.com/paypalme/wyliexbusiness) [![Spotify](https://img.shields.io/badge/Spotify-%23E4405F.svg?logo=Spotify&logoColor=yellow)](https://open.spotify.com/artist/36LUsNu2dwsWBuWYBBtxWj?si=PgPC6DdrTnahr9lvVfRIPw) [![SoundCloud](https://img.shields.io/badge/SoundCloud-%23E4405F.svg?logo=SoundCloud&logoColor=orange)](https://on.soundcloud.com/4BU9F) [![Twitch](https://img.shields.io/badge/Twitch-%23E4405F.svg?logo=Twitch&logoColor=purple)](https://m.twitch.tv/wyliexrd?desktop-redirect=true)
 # 💻 Languages and Tools:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
