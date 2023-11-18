@@ -1,13 +1,8 @@
 : [![MasterHead](https://cdn.discordapp.com/attachments/857714065710776320/1174812260179398706/6dc9a0a2a66af27412025c16cf921fcc.png?ex=6568f42d&is=65567f2d&hm=e1c9405672398d81e497a409bf31441f3e59bec41510d091ef8c6a98c67788b6&)
+
 <h1 align="center">Hi, I'm wyliex.</h1>
-<h3 align="center">I'm 𝗗𝗲𝘃𝗼𝗹𝗼𝗽𝗲𝗿 from 🇹🇷 𝗧𝘂𝗿𝗸𝗲𝘆/𝗔𝗻𝗸𝗮𝗿𝗮 🇹🇷.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wyliexrd&label=Profile%20views&color=0e75b6&style=flat" alt="wyliexrd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyliexrd" alt="wyliexrd" /></a> </p>
-
-- ✉️ How to reach me **wyliexbusiness@gmail.com**
-
+<h3 align="center">I'm 𝗗𝗲𝘃𝗼𝗹𝗼𝗽𝗲𝗿 from 𝗧𝘂𝗿𝗸𝗲𝘆.</h3>
+• ✉️ How to reach me; wyliexbusiness@gmail.com
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/@wyliexrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wyliexrd" height="30" width="40" /></a>
