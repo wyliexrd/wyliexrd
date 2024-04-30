@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/926806727620452362/970793275382448208/unknown.png?ex=656504b1&is=65528fb1&hm=9b9c4ccbe5bbcacc24ec69c3d93ff84927c8ad4d2fbc7b6eac1831b7e4ca1bab&)
+![MasterHead](https://media.discordapp.net/attachments/926806727620452362/970793275382448208/unknown.png?ex=6632aeb1&is=66315d31&hm=353180e780291cb8da867ac40888fda64c358d89c446b2d52468903f8f8326c7&)
 ![](https://komarev.com/ghpvc/?username=wyliexrd&color=blue)
 <div align="center">
  <a href="https://github.com/wyliexrd">
