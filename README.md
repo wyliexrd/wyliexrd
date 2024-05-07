@@ -1,4 +1,4 @@
-![MasterHead](https://media.discordapp.net/attachments/926806727620452362/970793275382448208/unknown.png?ex=6632aeb1&is=66315d31&hm=353180e780291cb8da867ac40888fda64c358d89c446b2d52468903f8f8326c7&)
+![MasterHead](https://cdn.discordapp.com/attachments/1237499686235930676/1237499981653344388/20240507_232216.jpg?ex=663bdf2b&is=663a8dab&hm=5b2b8877bab0730d1283897e85cdb5a9b5f3a3684bd3fb56164163c8d73eed37&)
 ![](https://komarev.com/ghpvc/?username=wyliexrd&color=blue)
 <div align="center">
  <a href="https://github.com/wyliexrd">
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Blockchain**
 
-- ✉️ How to reach me **wyliexbusiness@gmail.com**
+- ✉️ How to reach me Discord; **wyl2**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/wyliexrd?theme=unicorn)](https://leetcode.com/wyliexrd/)
 ## 🌐 Socials:
